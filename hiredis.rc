@@ -1,0 +1,8 @@
+#[link(name = "hiredis",
+       vers = "0.0.1",
+       uuid = "32db778e-2308-11e2-a811-5bfd418201b3",
+       url = "https://github.com/uasi/rust-hiredis")];
+
+#[comment = "A hiredis wrapper for Rust"];
+#[license = "MIT"];
+#[crate_type = "lib"];
